@@ -11,12 +11,9 @@ public:
         for(int start = 0 ; start < n-2 ; start++){
 
 
-            for(int i = 0 ; i < 3 ; i++){
-                if(hash[i] == 0 && end<n-1){
-                    end++;
-                    hash[s[end] - 'a']++;
-                    i--;
-                }
+            while((hash[0]==0 || hash[1]==0 || hash[2]==0) && end<n-1){
+                end++;
+                hash[s[end] - 'a']++;
             }
 
             if(hash[0]==0 || hash[1]==0 || hash[2]==0){
