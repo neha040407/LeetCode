@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/neha040407/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/neha040407/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/neha040407/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0904-fruit-into-baskets](https://github.com/neha040407/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/neha040407/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/neha040407/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -89,9 +90,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/neha040407/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/neha040407/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/neha040407/LeetCode/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/neha040407/LeetCode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/neha040407/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
