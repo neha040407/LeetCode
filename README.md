@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/neha040407/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/neha040407/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/neha040407/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/neha040407/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/neha040407/LeetCode/tree/master/0118-pascals-triangle) |
 | [0918-maximum-sum-circular-subarray](https://github.com/neha040407/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1014-best-sightseeing-pair](https://github.com/neha040407/LeetCode/tree/master/1014-best-sightseeing-pair) |
 ## Divide and Conquer
