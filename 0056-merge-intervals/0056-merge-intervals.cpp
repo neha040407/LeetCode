@@ -4,13 +4,7 @@ public:
         vector<vector<int>> ans;
         int noofint = intervals.size();
 
-        for(int i = 0 ; i < noofint ; i++){
-            for(int j = i ; j < noofint ; j++){
-                if(intervals[i][0] > intervals[j][0]){
-                    swap(intervals[i] , intervals[j]);
-                }
-            }
-        }
+        sort(intervals.begin(), intervals.end());
 
         int lower = intervals[0][0] , upper = intervals[0][1];
 
