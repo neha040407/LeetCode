@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/neha040407/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/neha040407/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/neha040407/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0978-longest-turbulent-subarray](https://github.com/neha040407/LeetCode/tree/master/0978-longest-turbulent-subarray) |
 | [1014-best-sightseeing-pair](https://github.com/neha040407/LeetCode/tree/master/1014-best-sightseeing-pair) |
 | [1248-count-number-of-nice-subarrays](https://github.com/neha040407/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neha040407/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/neha040407/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/neha040407/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/neha040407/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0978-longest-turbulent-subarray](https://github.com/neha040407/LeetCode/tree/master/0978-longest-turbulent-subarray) |
 | [1248-count-number-of-nice-subarrays](https://github.com/neha040407/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/neha040407/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neha040407/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/neha040407/LeetCode/tree/master/0118-pascals-triangle) |
 | [0918-maximum-sum-circular-subarray](https://github.com/neha040407/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0978-longest-turbulent-subarray](https://github.com/neha040407/LeetCode/tree/master/0978-longest-turbulent-subarray) |
 | [1014-best-sightseeing-pair](https://github.com/neha040407/LeetCode/tree/master/1014-best-sightseeing-pair) |
 ## Divide and Conquer
 |  |
