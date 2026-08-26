@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/neha040407/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/neha040407/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/neha040407/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0682-baseball-game](https://github.com/neha040407/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/neha040407/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/neha040407/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/neha040407/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/neha040407/LeetCode/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/neha040407/LeetCode/tree/master/0682-baseball-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/neha040407/LeetCode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/neha040407/LeetCode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
