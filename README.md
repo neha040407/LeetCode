@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/neha040407/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/neha040407/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/neha040407/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/neha040407/LeetCode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/neha040407/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/neha040407/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/neha040407/LeetCode/tree/master/0978-longest-turbulent-subarray) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/neha040407/LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/neha040407/LeetCode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/neha040407/LeetCode/tree/master/0735-asteroid-collision) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/neha040407/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bit Manipulation
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/neha040407/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/neha040407/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/neha040407/LeetCode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/neha040407/LeetCode/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/neha040407/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/neha040407/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
