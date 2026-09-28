@@ -7,37 +7,36 @@ public:
         long long toadd;
         int prev , next;
 
-        vector<int> pse(n);
-        vector<int> nse(n);
+        vector<int> se(n);   //smallest element
 
-        stack<int> lse;    //stack for left smaller element
-        stack<int> rse;    //stack for right smaller element
+        stack<int> sse;    //stack for smaller element
 
         for(int i = 0 ; i < n ; i++){
 
-            while(!lse.empty() && arr[lse.top()] >= arr[i]){
-                lse.pop();
+            while(!sse.empty() && arr[sse.top()] >= arr[i]){
+                sse.pop();
             }
 
-            pse[i] = lse.empty() ? -1 : lse.top();
-            lse.push(i);
+            se[i] = sse.empty() ? -1 : sse.top();
+            sse.push(i);
             //left smallest elements
-
-            while(!rse.empty() && arr[rse.top()] > arr[n-1-i]){
-                rse.pop();
-            }
-
-            nse[n-1-i] = rse.empty() ? n : rse.top();
-            rse.push(n-1-i);
-            //right smallest elements
         }
 
-        for(int i = 0 ; i < n ; i++){
-            prev = i - pse[i];
-            next = nse[i] - i;
+        while(!sse.empty()) sse.pop();
+
+        for(int i = n-1 ; i >= 0 ; i--){
+            while(!sse.empty() && arr[sse.top()] > arr[i]){
+                sse.pop();
+            }
+
+            prev = i - se[i];
+            se[i] = sse.empty() ? n : sse.top();
+
+            next = se[i] - i;
+            sse.push(i);
+            //right smallest elements
 
             toadd = (((arr[i] * prev) % MOD) * next) % MOD;
-
             ans = (ans + toadd) % MOD;
         }
 
