@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/neha040407/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/neha040407/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/neha040407/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/neha040407/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Queue
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/neha040407/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/neha040407/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/neha040407/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/neha040407/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/neha040407/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/neha040407/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/neha040407/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/neha040407/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1382-balance-a-binary-search-tree](https://github.com/neha040407/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/neha040407/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -267,4 +271,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/neha040407/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/neha040407/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/neha040407/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/neha040407/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/neha040407/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
