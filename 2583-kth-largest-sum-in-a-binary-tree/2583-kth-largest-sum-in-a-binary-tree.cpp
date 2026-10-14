@@ -1,11 +1,10 @@
-
 class Solution {
 public:
     long long kthLargestLevelSum(TreeNode* root, int k) {
         queue<TreeNode*> q;
-        q.push(root);
+        vector<long long> sums;
 
-        priority_queue<long long, vector<long long>, greater<long long>> minHeap;
+        q.push(root);
 
         while (!q.empty()) {
             int size = q.size();
@@ -24,15 +23,14 @@ public:
                     q.push(node->right);
             }
 
-            minHeap.push(sum);
-
-            if (minHeap.size() > k)
-                minHeap.pop();
+            sums.push_back(sum);
         }
 
-        if (minHeap.size() < k)
+        if (sums.size() < k)
             return -1;
 
-        return minHeap.top();
+        sort(sums.begin(), sums.end(), greater<long long>());
+
+        return sums[k - 1];
     }
 };
