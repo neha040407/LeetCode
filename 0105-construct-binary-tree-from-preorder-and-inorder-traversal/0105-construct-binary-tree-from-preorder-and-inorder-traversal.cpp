@@ -12,8 +12,9 @@
 class Solution {
 public:
     int preindex = 0;
+    unordered_map<int,int> mp;
     
-    TreeNode* build(vector<int>& preorder, vector<int>& inorder, int instart , int inend){
+    TreeNode* build(vector<int>& preorder, int instart , int inend){
         int i;
 
         if(instart > inend){
@@ -22,23 +23,24 @@ public:
 
         TreeNode* root = new TreeNode(preorder[preindex]);
 
-        for(i = instart ; i <= inend ; i++){
-            if(inorder[i] == preorder[preindex]){
-                break;
-            }
-        }
+        i = mp[preorder[preindex]];
 
         preindex++;
 
-        root -> left = build(preorder , inorder , instart , i-1);
-        root -> right = build(preorder , inorder , i+1 , inend);
+        root -> left = build(preorder , instart , i-1);
+        root -> right = build(preorder , i+1 , inend);
 
         return root;
     }
     
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         int n = preorder.size();
-        TreeNode* root = build(preorder , inorder , 0 , n-1);
+
+        for(int i = 0 ; i < n ; i++){
+            mp[inorder[i]] = i;
+        }
+        
+        TreeNode* root = build(preorder , 0 , n-1);
 
         return root;
     }
