@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/neha040407/LeetCode/tree/master/1014-best-sightseeing-pair) |
 | [1248-count-number-of-nice-subarrays](https://github.com/neha040407/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/neha040407/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/neha040407/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/neha040407/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/neha040407/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/neha040407/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/neha040407/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/neha040407/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/neha040407/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/neha040407/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/neha040407/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/neha040407/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/neha040407/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/neha040407/LeetCode/tree/master/0268-missing-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/neha040407/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/neha040407/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/neha040407/LeetCode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Union-Find
