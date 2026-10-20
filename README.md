@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/neha040407/LeetCode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/neha040407/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/neha040407/LeetCode/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/neha040407/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/neha040407/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/neha040407/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/neha040407/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neha040407/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/neha040407/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/neha040407/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/neha040407/LeetCode/tree/master/1791-find-center-of-star-graph) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/neha040407/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
