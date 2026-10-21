@@ -1,15 +1,28 @@
 class Solution {
 public:
     int mySqrt(int x) {
-        long long n = 0;
+        int start = 0;
+        int end = x;
+        long long mid;
 
-        for(int i = 0 ; ; i++){
-            if(x >= n && (x < (n + ((2*i) +1)))){
-                return i;
-            }
-            n += ((2*i) + 1);
+        if(x == 0 || x == 1){
+            return x;
         }
 
-        return 0;
+        while(start <= end){
+            mid = (start + end)/2;
+
+            if(mid*mid == x){
+                return mid;
+            }
+            else if(mid*mid > x){
+                end = mid - 1;
+            }
+            else{
+                start = mid + 1;
+            }
+        }
+
+        return end;
     }
 };
